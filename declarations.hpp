@@ -1,5 +1,5 @@
-#ifndef FILE
-#define FILE
+#ifndef PROGRAM
+#define PROGRAM
 
 #include <iostream>
 int add(int a, int b);
