@@ -15,3 +15,9 @@ int multiply(int a, int b){
 float divide(int a, int b){
     return (float) a / b;
 }
+
+int areaOfACircle(int a);
+{
+    3.14 * (int a)^2;
+    return a
+}
