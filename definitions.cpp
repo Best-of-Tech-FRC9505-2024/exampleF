@@ -15,3 +15,6 @@ int multiply(int a, int b){
 float divide(int a, int b){
     return (float) a / b;
 }
+int square(int a){
+    return a * a;
+}
