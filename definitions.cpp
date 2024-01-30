@@ -17,4 +17,7 @@ float divide(int a, int b){
 }
 int square(int a){
     return a * a;
+
+int cube(int a){
+    return a*a*a;
 }
