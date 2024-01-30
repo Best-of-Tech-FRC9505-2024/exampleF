@@ -21,3 +21,9 @@ int areaOfACircle(int a);
     3.14 * (int a)^2;
     return a
 }
+int square(int a){
+    return a * a;
+
+int cube(int a){
+    return a*a*a;
+}
