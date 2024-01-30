@@ -15,3 +15,7 @@ int multiply(int a, int b){
 float divide(int a, int b){
     return (float) a / b;
 }
+
+int cube(int a){
+    return a*a*a;
+}
